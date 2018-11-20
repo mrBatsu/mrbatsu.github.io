@@ -47,9 +47,10 @@ body{margin:0;
 	font-size:16px;
 	line-height:1.5;
 	font-family:Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-	text-align: center;}
+	text-align: center;
+	max-width: 80%}
 
-.container{width:90%;max-width:1000px;margin:0 auto}
+.container{width:80%;max-width:1000px;margin:0 auto}
 
 section{display:block;margin:0 0 20px 0}
 
