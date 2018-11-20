@@ -171,3 +171,8 @@ IMG.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto }
+
+   .icons-social i {
+	font-size: 3em;
+	padding: 10px;
+}
