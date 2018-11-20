@@ -170,7 +170,8 @@ h1,h2,h3,h4,h5,h6{font-weight:normal;
 IMG.displayed {
     display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto;
+    padding: 15px; }
 
    .icons-social i {
 	font-size: 3em;
