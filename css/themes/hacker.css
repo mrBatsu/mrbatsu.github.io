@@ -165,3 +165,8 @@ h1,h2,h3,h4,h5,h6{font-weight:normal;
 		text-shadow:0 0 5px rgba(104,182,255,0.5)}
 
 	.cf:before,.cf:after{content:"";display:table}.cf:after{clear:both}.cf{zoom:1}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
