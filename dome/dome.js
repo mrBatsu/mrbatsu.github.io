@@ -60,8 +60,9 @@ var sites = {
 			},
 			"news": {
 				"theGuardian"			: "https://guardian.com/",
-				"Vilaweb"				: "https://www.vilaweb.cat/",
-				"El Punt Avui"			: "http://www.elpuntavui.cat/barcelona.html"
+				"wired"					: "https://www.wired.com/",
+				"quartz"				: "https://qz.com/",
+				"makeUseOf"				: "https://www.makeuseof.com/"
 			},
 			"myStuff": {
 				"manjaroForum"			: "https://forum.manjaro.org/",
