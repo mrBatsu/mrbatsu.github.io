@@ -37,7 +37,9 @@ var sites = {
 				"flickr/activity"			: "https://flickr.com/activity/",
 				"flickr/organize"				: "https://flickr.com/organize/",
 				"flickr/mine"			: "https://flickr.com/photos/maique/",
-				"flickr/home"				: "https://flickr.com/"
+				"flickr/home"				: "https://flickr.com/",
+				"instagram/home"		: "https://instagram.com/",
+				"instagram/mine"		: "https://instagram.com/maique"
 			},
 			"Social": {
 				"GitLab"			: "https://gitlab.com/Capuno",
