@@ -66,9 +66,6 @@ var sites = {
 			"myStuff": {
 				"manjaroForum"			: "https://forum.manjaro.org/",
 				"manjaroWiki"			: "https://wiki.manjaro.org/index.php?title=Main_Page",
-				"capuno.cat"			: "https://capuno.cat/",
-				"gnu.cat"				: "https://gnu.cat/",
-				"life"					: "https://life.capuno.cat/",
 				"rice"					: "https://rice.capuno.cat/"
 			}
 		};
