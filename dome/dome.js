@@ -50,7 +50,7 @@ var sites = {
 			"email": {
 				"proton"				: "https://mail.protonmail.com/inbox",
 				"fastmail"			: "https://www.fastmail.com/mail/Inbox/",
-				"Zoho Mail"			: "https://mail.zoho.eu/zm/#mail/folder/inbox"
+				"tutanota"			: "https://mail.tutanota.com/mail/"
 			},
 			"Games": { // To find the game ID check the url in the store page or the community page
 				"CS:GO"				: "steam://run/730",
@@ -60,8 +60,8 @@ var sites = {
 				"West of Loathing"	: "steam://run/597220",
 				"POSTAL 2"			: "steam://run/223470"
 			},
-			"News": {
-				"Financial Times"	: "https://www.ft.com/",
+			"news": {
+				"theGuardian"	: "https://guardian.com/",
 				"Vilaweb"			: "https://www.vilaweb.cat/",
 				"El Punt Avui"		: "http://www.elpuntavui.cat/barcelona.html"
 			},
