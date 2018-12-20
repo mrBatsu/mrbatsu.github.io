@@ -41,15 +41,15 @@ var sites = {
 				"instagram/home"		: "https://instagram.com/",
 				"instagram/mine"		: "https://instagram.com/maique"
 			},
-			"Social": {
-				"GitLab"			: "https://gitlab.com/Capuno",
-				"Racó Català"		: "https://www.racocatala.cat/forums",
-				"YouTube"			: "https://www.youtube.com/",
-				"Twitter"			: "https://twitter.com/"
+			"social": {
+				"github"			: "https://github.com/mrBatsu",
+				"twitter"		: "https://twitter.com",
+				"twitter/maique/mrBatsu"			: "https://twitter.com/maique/lists/mrBatsu",
+				"mastodon"			: "https://mastodon.social/web/timelines/home"
 			},
-			"E-Mail": {
-				"GMail"				: "https://mail.google.com/mail/u/0/",
-				"Hotmail"			: "https://outlook.live.com/owa/",
+			"email": {
+				"proton"				: "https://mail.protonmail.com/inbox",
+				"fastmail"			: "https://www.fastmail.com/mail/Inbox/",
 				"Zoho Mail"			: "https://mail.zoho.eu/zm/#mail/folder/inbox"
 			},
 			"Games": { // To find the game ID check the url in the store page or the community page
