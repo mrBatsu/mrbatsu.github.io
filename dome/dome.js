@@ -33,11 +33,11 @@
 
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
-			"Chan": {
-				"4/wsg/"			: "https://boards.4chan.org/wsg/",
-				"4/b/"				: "https://boards.4chan.org/b/",
-				"4/sci/"			: "https://boards.4chan.org/sci/",
-				"8/b/"				: "https://8ch.net/b/index.html"
+			"photo": {
+				"flickr/activity"			: "https://flickr.com/activity/",
+				"flickr/organize"				: "https://flickr.com/organize/",
+				"flickr/mine"			: "https://flickr.com/photos/maique/",
+				"flickr/home"				: "https://flickr.com/"
 			},
 			"Social": {
 				"GitLab"			: "https://gitlab.com/Capuno",
