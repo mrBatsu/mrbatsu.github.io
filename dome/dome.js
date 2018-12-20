@@ -34,42 +34,42 @@
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
 			"photo": {
-				"flickr/activity"			: "https://flickr.com/activity/",
-				"flickr/organize"				: "https://flickr.com/organize/",
+				"flickr/activity"		: "https://flickr.com/activity/",
+				"flickr/organize"		: "https://flickr.com/organize/",
 				"flickr/mine"			: "https://flickr.com/photos/maique/",
-				"flickr/home"				: "https://flickr.com/",
+				"flickr/home"			: "https://flickr.com/",
 				"instagram/home"		: "https://instagram.com/",
 				"instagram/mine"		: "https://instagram.com/maique"
 			},
 			"social": {
-				"github"			: "https://github.com/mrBatsu",
-				"twitter"		: "https://twitter.com",
-				"twitter/maique/mrBatsu"			: "https://twitter.com/maique/lists/mrBatsu",
-				"mastodon"			: "https://mastodon.social/web/timelines/home"
+				"github"				: "https://github.com/mrBatsu",
+				"twitter"				: "https://twitter.com",
+				"twitter/maique/mrBatsu" : "https://twitter.com/maique/lists/mrBatsu",
+				"mastodon"				: "https://mastodon.social/web/timelines/home"
 			},
 			"email": {
 				"proton"				: "https://mail.protonmail.com/inbox",
-				"fastmail"			: "https://www.fastmail.com/mail/Inbox/",
-				"tutanota"			: "https://mail.tutanota.com/mail/"
+				"fastmail"				: "https://www.fastmail.com/mail/Inbox/",
+				"tutanota"				: "https://mail.tutanota.com/mail/"
 			},
-			"Games": { // To find the game ID check the url in the store page or the community page
-				"CS:GO"				: "steam://run/730",
-				"Besiege"			: "steam://run/346010",
-				"Rust"				: "steam://run/252490",
-				"Insurgency"		: "steam://run/222880",
-				"West of Loathing"	: "steam://run/597220",
-				"POSTAL 2"			: "steam://run/223470"
+			"reddit": { 
+				"reddit/home"			: "https://www.reddit.com/",
+				"reddit/manjaro"		: "https://www.reddit.com/r/ManjaroLinux/",
+				"reddit/popOS"			: "https://www.reddit.com/r/pop_os/",
+				"reddit/wcgw"			: "https://www.reddit.com/r/Whatcouldgowrong/"
 			},
 			"news": {
-				"theGuardian"	: "https://guardian.com/",
-				"Vilaweb"			: "https://www.vilaweb.cat/",
-				"El Punt Avui"		: "http://www.elpuntavui.cat/barcelona.html"
+				"theGuardian"			: "https://guardian.com/",
+				"Vilaweb"				: "https://www.vilaweb.cat/",
+				"El Punt Avui"			: "http://www.elpuntavui.cat/barcelona.html"
 			},
-			"My stuff": {
-				"capuno.cat"		: "https://capuno.cat/",
-				"gnu.cat"			: "https://gnu.cat/",
-				"life"				: "https://life.capuno.cat/",
-				"rice"				: "https://rice.capuno.cat/"
+			"myStuff": {
+				"manjaroForum"			: "https://forum.manjaro.org/",
+				"manjaroWiki"			: "https://wiki.manjaro.org/index.php?title=Main_Page",
+				"capuno.cat"			: "https://capuno.cat/",
+				"gnu.cat"				: "https://gnu.cat/",
+				"life"					: "https://life.capuno.cat/",
+				"rice"					: "https://rice.capuno.cat/"
 			}
 		};
 
