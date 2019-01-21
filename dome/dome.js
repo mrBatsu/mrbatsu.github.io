@@ -43,6 +43,7 @@ var sites = {
 			},
 			"social": {
 				"github"				: "https://github.com/mrBatsu",
+				"blog"					: "https://mrbatsu.github.io/blog/",
 				"twitter"				: "https://twitter.com",
 				"twitter/maique/mrBatsu" : "https://twitter.com/maique/lists/mrBatsu",
 				"mastodon"				: "https://mastodon.social/web/timelines/home"
