@@ -39,7 +39,8 @@ var sites = {
 				"flickr/mine"			: "https://flickr.com/photos/maique/",
 				"flickr/home"			: "https://flickr.com/",
 				"instagram/home"		: "https://instagram.com/",
-				"instagram/mine"		: "https://instagram.com/maique"
+				"instagram/mine"		: "https://instagram.com/maique",
+				"instagram/activity"		: "https://www.instagram.com/accounts/activity/"
 			},
 			"social": {
 				"github"				: "https://github.com/mrBatsu",
