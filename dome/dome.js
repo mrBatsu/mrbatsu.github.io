@@ -58,17 +58,18 @@ var sites = {
 				"reddit/manjaro"		: "https://www.reddit.com/r/ManjaroLinux/",
 				"reddit/popOS"			: "https://www.reddit.com/r/pop_os/",
 				"reddit/wcgw"			: "https://www.reddit.com/r/Whatcouldgowrong/"
+				"reddit/itHadToBeBrazil"	: "https://www.reddit.com/r/ItHadToBeBrazil/"
 			},
 			"news": {
 				"theGuardian"			: "https://guardian.com/",
-				"wired"					: "https://www.wired.com/",
-				"quartz"				: "https://qz.com/",
-				"makeUseOf"				: "https://www.makeuseof.com/"
+				"wired"				: "https://www.wired.com/",
+				"quartz"			: "https://qz.com/",
+				"makeUseOf"			: "https://www.makeuseof.com/"
 			},
 			"myStuff": {
 				"manjaroForum"			: "https://forum.manjaro.org/",
 				"manjaroWiki"			: "https://wiki.manjaro.org/index.php?title=Main_Page",
-				"rice"					: "https://rice.capuno.cat/"
+				"maiquemadeira.com"		: "https://maiquemadeira.com"
 			}
 		};
 
