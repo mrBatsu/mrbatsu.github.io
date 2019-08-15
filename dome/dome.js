@@ -73,7 +73,7 @@ var sites = {
 			}
 		};
 
-var search = "https://startpage.com/do/search";		// The search engine
+var search = "https://duckduckgo.com/";		// The search engine
 var query  = "q";							// The query variable name for the search engine
 
 var pivotmatch = 0;
