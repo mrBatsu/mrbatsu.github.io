@@ -45,7 +45,7 @@ var sites = {
 				"github"				: "https://github.com/mrBatsu",
 				"blog"					: "https://xanato.net/",
 				"twitter"				: "https://twitter.com",
-				"twitter/maique/mrBatsu" : "https://twitter.com/maique/lists/mrBatsu",
+				"twitter/maique/mrBatsu" : "https://twitter.com/maique/lists/mrBatsu1",
 				"mastodon"				: "https://mastodon.social/web/timelines/home"
 			},
 			"email": {
