@@ -70,7 +70,8 @@ var sites = {
 				"manjaroForum"			: "https://forum.manjaro.org/",
 				"manjaroWiki"			: "https://wiki.manjaro.org/index.php?title=Main_Page",
 				"maiquemadeira.com"		: "https://maiquemadeira.com",
-				"pocket"			: "https://app.getpocket.com"
+				"pocket"			: "https://app.getpocket.com",
+				"todoist"			: "https://todoist.com/"
 			}
 		};
 
