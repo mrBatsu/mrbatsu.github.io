@@ -71,7 +71,7 @@ var sites = {
 				"manjaroWiki"			: "https://wiki.manjaro.org/index.php?title=Main_Page",
 				"maiquemadeira.com"		: "https://maiquemadeira.com",
 				"pocket"			: "https://app.getpocket.com",
-				"todoist"			: "https://todoist.com/",
+				"coffee"			: "https://www.buymeacoffee.com/dashboard",
 				"darksky"			: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
 			}
 		};
