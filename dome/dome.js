@@ -70,6 +70,7 @@ var sites = {
 				"maiquemadeira.com"		: "https://maiquemadeira.com",
 				"pocket"			: "https://app.getpocket.com",
 				"coffee"			: "https://www.buymeacoffee.com/dashboard",
+				"linktr.ee"			: "https://linktr.ee/admin",
 				"darksky"			: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
 			}
 		};
