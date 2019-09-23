@@ -34,8 +34,7 @@
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
 			"myStuff": {
-				"maiquemadeira.com"		: "https://maiquemadeira.com",
-				"pocket"			: "https://app.getpocket.com",
+				"stripe"			: "https://dashboard.stripe.com/payouts",
 				"coffee"			: "https://www.buymeacoffee.com/dashboard",
 				"ko-fi"				: "https://ko-fi.com/Manage",
 				"linktr.ee"			: "https://linktr.ee/admin",
