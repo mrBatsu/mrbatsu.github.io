@@ -33,6 +33,14 @@
 
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
+			"myStuff": {
+				"maiquemadeira.com"		: "https://maiquemadeira.com",
+				"pocket"			: "https://app.getpocket.com",
+				"coffee"			: "https://www.buymeacoffee.com/dashboard",
+				"ko-fi"				: "https://ko-fi.com/Manage",
+				"linktr.ee"			: "https://linktr.ee/admin",
+				"darksky"			: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
+			},
 			"photo": {
 				"flickr/activity"		: "https://flickr.com/activity/",
 				"flickr/organize"		: "https://flickr.com/organize/",
@@ -65,14 +73,6 @@ var sites = {
 				"wired"				: "https://www.wired.com/",
 				"quartz"			: "https://qz.com/",
 				"makeUseOf"			: "https://www.makeuseof.com/"
-			},
-			"myStuff": {
-				"maiquemadeira.com"		: "https://maiquemadeira.com",
-				"pocket"			: "https://app.getpocket.com",
-				"coffee"			: "https://www.buymeacoffee.com/dashboard",
-				"ko-fi"				: "https://ko-fi.com/Manage",
-				"linktr.ee"			: "https://linktr.ee/admin",
-				"darksky"			: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
 			}
 		};
 
