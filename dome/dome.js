@@ -67,11 +67,13 @@ var sites = {
 				"reddit/wcgw"			: "https://www.reddit.com/r/Whatcouldgowrong/",
 				"reddit/itHadToBeBrazil"	: "https://www.reddit.com/r/ItHadToBeBrazil/"
 			},
-			"news": {
-				"theGuardian"			: "https://guardian.com/",
-				"wired"				: "https://www.wired.com/",
-				"quartz"			: "https://qz.com/",
-				"makeUseOf"			: "https://www.makeuseof.com/"
+			"ipStuff": {
+				"mullvad"			: "https://mullvad.net/en/",
+				"amIMullvad"			: "https://am.i.mullvad.net/",
+				"doILeak"			: "https://www.doileak.com/",
+				"showMyIP"			: "https://www.showmyip.com/",
+				"IPlocation"			: "https://www.iplocation.net/",
+				"bearMyIP"			: "https://bearsmyip.com/"
 			}
 		};
 
