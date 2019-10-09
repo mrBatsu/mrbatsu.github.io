@@ -40,6 +40,14 @@ var sites = {
 				"linktr.ee"			: "https://linktr.ee/admin",
 				"darksky"			: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
 			},
+			"ipStuff": {
+				"mullvad"			: "https://mullvad.net/en/",
+				"amIMullvad"			: "https://am.i.mullvad.net/",
+				"doILeak"			: "https://www.doileak.com/",
+				"showMyIP"			: "https://www.showmyip.com/",
+				"IPlocation"			: "https://www.iplocation.net/",
+				"bearMyIP"			: "https://bearsmyip.com/"
+			},
 			"photo": {
 				"flickr/activity"		: "https://flickr.com/activity/",
 				"flickr/organize"		: "https://flickr.com/organize/",
@@ -66,14 +74,6 @@ var sites = {
 				"reddit/popOS"			: "https://www.reddit.com/r/pop_os/",
 				"reddit/wcgw"			: "https://www.reddit.com/r/Whatcouldgowrong/",
 				"reddit/itHadToBeBrazil"	: "https://www.reddit.com/r/ItHadToBeBrazil/"
-			},
-			"ipStuff": {
-				"mullvad"			: "https://mullvad.net/en/",
-				"amIMullvad"			: "https://am.i.mullvad.net/",
-				"doILeak"			: "https://www.doileak.com/",
-				"showMyIP"			: "https://www.showmyip.com/",
-				"IPlocation"			: "https://www.iplocation.net/",
-				"bearMyIP"			: "https://bearsmyip.com/"
 			}
 		};
 
