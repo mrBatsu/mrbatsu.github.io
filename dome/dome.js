@@ -44,8 +44,8 @@ var sites = {
 				"mullvad"			: "https://mullvad.net/en/",
 				"amIMullvad"			: "https://am.i.mullvad.net/",
 				"doILeak"			: "https://www.doileak.com/",
-				"showMyIP"			: "https://www.showmyip.com/",
-				"IPlocation"			: "https://www.iplocation.net/",
+				"ipLeak"			: "https://ipleak.net/",
+				"DNSleakTest"			: "https://dnsleaktest.com/",
 				"bearMyIP"			: "https://bearsmyip.com/"
 			},
 			"photo": {
