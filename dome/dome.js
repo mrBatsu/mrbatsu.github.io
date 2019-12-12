@@ -37,6 +37,7 @@ var sites = {
 				"stripe"			: "https://dashboard.stripe.com/payouts",
 				"coffee"			: "https://www.buymeacoffee.com/dashboard",
 				"ko-fi"				: "https://ko-fi.com/Manage",
+				"biolinky"			: "https://biolinky.co/home",
 				"linktr.ee"			: "https://linktr.ee/admin",
 				"darksky"			: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
 			},
