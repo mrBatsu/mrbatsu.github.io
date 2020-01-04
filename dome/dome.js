@@ -72,9 +72,7 @@ var sites = {
 			"reddit": { 
 				"reddit/home"			: "https://www.reddit.com/",
 				"reddit/manjaro"		: "https://www.reddit.com/r/ManjaroLinux/",
-				"reddit/popOS"			: "https://www.reddit.com/r/pop_os/",
-				"reddit/wcgw"			: "https://www.reddit.com/r/Whatcouldgowrong/",
-				"reddit/itHadToBeBrazil"	: "https://www.reddit.com/r/ItHadToBeBrazil/"
+				"reddit/popOS"			: "https://www.reddit.com/r/pop_os/"
 			}
 		};
 
