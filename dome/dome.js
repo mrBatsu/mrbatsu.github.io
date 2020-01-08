@@ -34,20 +34,20 @@
 // div.innerHTML : {a.innerHTML : a.href}
 var sites = {
 			"myStuff": {
-				"stripe"			: "https://dashboard.stripe.com/payouts",
-				"coffee"			: "https://www.buymeacoffee.com/dashboard",
-				"ko-fi"				: "https://ko-fi.com/Manage",
-				"biolinky"			: "https://biolinky.co/home",
-				"linktr.ee"			: "https://linktr.ee/admin",
-				"darksky"			: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
+				"stripe"				: "https://dashboard.stripe.com/payouts",
+				"coffee"				: "https://www.buymeacoffee.com/dashboard",
+				"ko-fi"					: "https://ko-fi.com/Manage",
+				"biolinky"				: "https://biolinky.co/home",
+				"linktr.ee"				: "https://linktr.ee/admin",
+				"darksky"				: "https://darksky.net/forecast/38.716,-9.1522/ca12/en"
 			},
 			"ipStuff": {
-				"mullvad"			: "https://mullvad.net/en/",
+				"mullvad"				: "https://mullvad.net/en/",
 				"amIMullvad"			: "https://am.i.mullvad.net/",
-				"doILeak"			: "https://www.doileak.com/",
-				"ipLeak"			: "https://ipleak.net/",
+				"doILeak"				: "https://www.doileak.com/",
+				"ipLeak"				: "https://ipleak.net/",
 				"DNSleakTest"			: "https://dnsleaktest.com/",
-				"bearMyIP"			: "https://bearsmyip.com/"
+				"bearMyIP"				: "https://bearsmyip.com/"
 			},
 			"photo": {
 				"flickr/activity"		: "https://flickr.com/activity/",
@@ -62,17 +62,17 @@ var sites = {
 				"blog"					: "https://xanato.net/",
 				"twitter"				: "https://twitter.com",
 				"twitter/maique/mrBatsu" : "https://twitter.com/maique/lists/mrBatsu1",
-				"mastodon"				: "https://mastodon.social/web/timelines/home"
+				"mastodon"				: "https://mastodon.social/web/timelines/home",
+				"reddit/home"			: "https://www.reddit.com/"
 			},
 			"email": {
 				"proton"				: "https://mail.protonmail.com/inbox",
 				"fastmail"				: "https://www.fastmail.com/mail/Inbox/",
 				"tutanota"				: "https://mail.tutanota.com/mail/"
 			},
-			"reddit": { 
-				"reddit/home"			: "https://www.reddit.com/",
-				"reddit/manjaro"		: "https://www.reddit.com/r/ManjaroLinux/",
-				"reddit/popOS"			: "https://www.reddit.com/r/pop_os/"
+			"extra": { 
+				"stellar @coinabase"	: "http://coinbase.com/price/stellar",
+				"password generator"	: "https://vault.bitwarden.com/#/tools/generator"
 			}
 		};
 
