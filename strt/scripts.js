@@ -1,5 +1,5 @@
 const defaultsites = "d s stackexchange https://stackexchange.com/ https://stackexchange.com/search?q=,m r reddit https://www.reddit.com/ https://www.reddit.com/search/?q=,m t twitter https://twitter.com/home https://twitter.com/search?q=,w w wikipedia https://www.wikipedia.org/ https://en.wikipedia.org/wiki/,e w w3schools https://www.w3schools.com/";
-const searchengine = "https://www.ecosia.org/search?q=";
+const searchengine = "https://www.duckduckgo.com/search?q=";
 const siteFile = "strtsites";
 
 var sites = localStorage.getItem(siteFile) === null ? defaultsites : localStorage.getItem(siteFile);
