@@ -25,8 +25,8 @@ base03: background
 */
 
 body {
-    background-color: #002b36;
-    color: #839496;
+    background-color: #4C566A;
+    color: #ECEFF4;
     font-family: Fantasque Sans Mono, 'Courier New', Courier, monospace;
     font-size: 16px;
     line-height: 16px;
@@ -40,7 +40,7 @@ body {
 
 input {
     background-color: transparent;
-    color: #93a1a1;
+    color: #ECEFF4;
     font-family: Fantasque Sans Mono, 'Courier New', Courier, monospace;
     font-size: 16px;
     width: 50vw;
