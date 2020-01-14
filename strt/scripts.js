@@ -1,4 +1,4 @@
-const defaultsites = "d s stackexchange https://stackexchange.com/ https://stackexchange.com/search?q=,m r reddit https://www.reddit.com/ https://www.reddit.com/search/?q=,m t twitter https://twitter.com/home https://twitter.com/search?q=,e p proton https://mail.protonmail.com/inbox,f fastmail https://www.fastmail.com/mail/Inbox/,t tutanota https://mail.tutanota.com/mail/,x s stellar http://coinbase.com/price/stellar,x b bitwarden https://vault.bitwarden.com/#/tools/generator,x w waze https://www.waze.com/en-GB/livemap";
+const defaultsites = "d s stackexchange https://stackexchange.com/ https://stackexchange.com/search?q=,m r reddit https://www.reddit.com/ https://www.reddit.com/search/?q=,m t twitter https://twitter.com/home https://twitter.com/search?q=,e p proton https://mail.protonmail.com/inbox,e f fastmail https://www.fastmail.com/mail/Inbox/,e t tutanota https://mail.tutanota.com/mail/,x s stellar http://coinbase.com/price/stellar,x b bitwarden https://vault.bitwarden.com/#/tools/generator,x w waze https://www.waze.com/en-GB/livemap";
 const searchengine = "https://www.duckduckgo.com/search?q=";
 const siteFile = "strtsites";
 
