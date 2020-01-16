@@ -73,7 +73,8 @@ var sites = {
 			"extra": { 
 				"stellar @coinabase"	: "http://coinbase.com/price/stellar",
 				"password generator"	: "https://vault.bitwarden.com/#/tools/generator",
-				"waze"					: "https://www.waze.com/en-GB/livemap"
+				"waze"			: "https://www.waze.com/en-GB/livemap",
+				"copychar"		: "https://copychar.cc/"
 			}
 		};
 
